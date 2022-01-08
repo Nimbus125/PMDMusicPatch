@@ -1,0 +1,89 @@
+#define pedestalSpot1Item 0x56
+#define pedestalSpot1Sub 0x00
+#define pedestalSpot2Item 0x5D
+#define pedestalSpot2Sub 0x00
+#define pedestalSpot3Item 0x5D
+#define pedestalSpot3Sub 0x00
+#define swiftblade1DojoItem 0x59
+#define swiftblade1DojoSub 0x00
+#define swiftblade2DojoItem 0x67
+#define swiftblade2DojoSub 0x50
+#define swiftblade3DojoItem 0x01
+#define swiftblade3DojoSub 0x00
+#define swiftblade4DojoItem 0x67
+#define swiftblade4DojoSub 0x6C
+#define grimbladeDojoItem 0x5D
+#define grimbladeDojoSub 0x00
+#define walletShopItem 0x67
+#define walletShopSub 0x45
+#define boomerangShopItem 0x67
+#define boomerangShopSub 0x48
+#define quiverShopItem 0x66
+#define quiverShopSub 0x00
+#define dogShopItem 0x63
+#define dogShopSub 0x00
+#define carlovSpotItem 0x5D
+#define carlovSpotSub 0x00
+#define redBookItem 0x67
+#define redBookSub 0x3E
+#define greenBookItem 0x59
+#define greenBookSub 0x00
+#define bottleScrubItem 0x59
+#define bottleScrubSub 0x00
+#define gripScrubItem 0x67
+#define gripScrubSub 0x40
+#define graybladeDojoItem 0x67
+#define graybladeDojoSub 0x21
+#define swiftbladeIDojoItem 0x73
+#define swiftbladeIDojoSub 0x00
+#define blueBookItem 0x01
+#define blueBookSub 0x00
+#define wavebladeDojoItem 0x67
+#define wavebladeDojoSub 0x62
+#define chuContainerItem 0x50
+#define chuContainerSub 0x00
+#define gleerokContainerItem 0x56
+#define gleerokContainerSub 0x00
+#define fowRightItem 0x67
+#define fowRightSub 0x86
+#define fowLeftItem 0x50
+#define fowLeftSub 0x00
+#define mazaalContainerItem 0x17
+#define mazaalContainerSub 0x00
+#define octoContainerItem 0x5D
+#define octoContainerSub 0x00
+#define gyorgContainerItem 0x14
+#define gyorgContainerSub 0x00
+#define scarbladeDojoItem 0x0F
+#define scarbladeDojoSub 0x00
+#define splitbladeDojoItem 0x55
+#define splitbladeDojoSub 0x00
+#define greatbladeDojoItem 0x12
+#define greatbladeDojoSub 0x00
+#define customRNG 0x285E154A
+#define versionNumber 0x00060213
+#define versionNumbers 0x00060213
+#define historyOption 0x180
+#define TUNIC_COLORED
+#define TUNIC_COLOR_DARKEST 0x15E2
+#define TUNIC_COLOR_DARK 0x1688
+#define TUNIC_COLOR_MAIN 0x07E2
+#define TUNIC_COLOR_LIGHT 0x53F7
+#define heartscolor
+#define heartFillR (0x095F & 0x1F)
+#define heartFillG (0x095F >> 5)   & 0x1F
+#define heartFillB (0x095F >> 10) & 0x1F
+#define barcolor
+#define splitFirst 0x0FE9
+#define splitThird 0x0E66
+#define splitFourth 0x0D46
+#define enable_firerod 1
+#define keasy
+#define openFusions
+#define noFusions
+#define glitchless
+#define alwaysSkipFusionCutscene 0
+#define requirementFigurinesAmmount 100
+#define noDHC
+#define seedHashed 0x9AC1E9BB
+#define settingHash 0x7894DAC4
