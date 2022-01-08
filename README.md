@@ -1,6 +1,6 @@
 # PMD Music Patch
 
-This is a patch that adds music from Pokemon Mystery Dungeon: Red Rescue Team into The Legend of Zelda: The Minish Cap Randomizer. 
+This is a patch that adds music from Pokemon Mystery Dungeon: Red Rescue Team into The Legend of Zelda: The Minish Cap Randomizer. This was built using the v.0.6.2-Tourney build of TMCR. 
 
 ##How to Use
 
